@@ -21,14 +21,16 @@
 
 > Fill out project information in English ⬇️
 ### Student Name
-
+- haya almejaibel
 
 ### Project Name
-
+- parkline
 # Idea
 Problem and solutions if found 
-
+- Parkline is a smart vehicle parking app that helps people to find suitable parking space anywhere with this app!
 
 # Future Work 
-
+- Book Your Parking Space
+- On Street Parking In Several Cities
+- More Than 5k Parking Space
 
